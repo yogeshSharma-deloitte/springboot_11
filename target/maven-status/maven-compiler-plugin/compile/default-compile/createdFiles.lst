@@ -1,0 +1,4 @@
+com/hashedin/migration/entity/Product.class
+com/hashedin/migration/entity/User.class
+com/hashedin/migration/repository/ProductRepository.class
+com/hashedin/migration/repository/UserRepository.class
